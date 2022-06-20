@@ -12,8 +12,8 @@
     background-color: rgba(255, 153, 0, 0.3);
 }
 
-.pagination {
- display: flex;
+.ps_container{
+    display: flex;
 }
 
 .pagination button {
